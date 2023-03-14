@@ -4,6 +4,15 @@ I modified the premade javascript from what I've learned in week 3 to get the pa
 
 Also I managed to code in window prompts and alerts asking a series of questions such as 'How many characters would I like to us' etc...
 
+
+
+![Alt text](../../Web%20capture_13-3-2023_23276_.jpg)
+
+
+
+
+
+
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
