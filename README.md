@@ -6,7 +6,7 @@ Also I managed to code in window prompts and alerts asking a series of questions
 
 
 
-![Alt text](../../Web%20capture_13-3-2023_23276_.jpg)
+
 
 
 
